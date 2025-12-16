@@ -1,77 +1,76 @@
-<h1 align="center">Hey there 👋 I'm Mohndng</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> Hi, I'm <span style="color:#00BFFF">Mohndng</span>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Typescript+Enthusiast;Tailwind+CSS+Lover;Exploring+AI+Models+like+Gemini%2C+Claude%2C+Grok;Learning+Supabase+step+by+step;Just+vibe+coding+my+way+through+tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Typescript+Enthusiast;Tailwind+CSS+Lover;Exploring+AI+Models+like+Gemini%2C+Claude%2C+Grok;Learning+Supabase+step+by+step;Just+vibe+coding+my+way+through+tech" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🧑‍💻 Self-taught dev passionate about building cool things, one small step at a time.
-- 💙 Currently vibing with **TypeScript**, **Tailwind CSS**, and **Supabase**.
-- 🤖 Exploring the world of AI: **Gemini**, **Claude**, **Grok**, **Mistral**, **LLaMA**.
-- 🧪 I believe in learning by doing — even if it’s messy, it’s progress.
+- 🌱 Passionate about learning in small steps
+- 💻 Exploring **TypeScript**, **Tailwind CSS**, **Supabase**
+- 🤖 Curious about AI: **Gemini**, **Claude**, **Grok**, **Mistral**, **LLaMA**
+- 🧪 I build vibe-driven web apps for fun and learning
 
 ---
 
 ### 🛠️ Tech Stack
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![AI Curious](https://img.shields.io/badge/-AI%20Curious-FFB86C?style=flat-square&logo=OpenAI&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AI Curious](https://img.shields.io/badge/-AI%20Curious-FFB86C?style=for-the-badge&logo=OpenAI&logoColor=black)
 
 ---
 
-### 🚀 Recent Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [**PetInfoSys**](https://github.com/mohndng/petinfosystem-ph) | A pet information system built with love and curiosity. | TypeScript, Tailwind, Supabase |
-| [**Verdant**](https://github.com/mohndng/verdant) | A green-themed web app — just vibing with UI and layout. | Tailwind CSS, HTML |
-| [**Formatic**](https://github.com/mohndng/formatic) | A form-focused app experimenting with UX and form logic. | TypeScript, Tailwind |
-
----
-
-### 📈 GitHub Stats
+### 🎨 Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohndng&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohndng&theme=radical" alt="GitHub Streak" />
+  <a href="https://github.com/mohndng/petinfosystem-ph">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohndng&repo=petinfosystem-ph&theme=radical" />
+  </a>
+  <a href="https://github.com/mohndng/verdant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohndng&repo=verdant&theme=radical" />
+  </a>
+  <a href="https://github.com/mohndng/formatic">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohndng&repo=formatic&theme=radical" />
+  </a>
 </p>
 
 ---
 
-### 🌱 Currently Learning
+### 📊 GitHub Stats & Activity
 
-- Supabase Auth & Realtime
-- AI model APIs (Gemini, Claude, Mistral)
-- Building full-stack apps with TypeScript
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohndng&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohndng&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mohndng&theme=react-dark" />
+</p>
 
 ---
 
-### 🎯 Goals
+### 🧭 Currently Navigating
 
-- Build more vibe-driven apps with real-world use
-- Collaborate with devs who love learning too
-- Keep the code flowing, even if it’s just one line a day
+- 🔍 Supabase Auth & Realtime
+- 🧠 AI APIs (Gemini, Claude, Mistral)
+- 🛠️ Full-stack TypeScript projects
 
 ---
 
 ### 📫 Let’s Connect
 
-- 🐦 [@mohndng](https://twitter.com/mohndng)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohndng)
-- 🌐 [Portfolio](https://mohndng.dev)
+<p align="center">
+  <a href="https://twitter.com/mohndng"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mohndng"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohndng&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohndng&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mohndng&style=flat-square&color=blue" alt="Profile Views" />
 </p>
