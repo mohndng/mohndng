@@ -49,7 +49,7 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohndng&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mohndng&theme=react-dark" />
+
 </p>
 
 ---
