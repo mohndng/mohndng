@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Typescript+Enthusiast;Tailwind+CSS+Lover;Exploring+AI+Models+like+Gemini%2C+Claude%2C+Grok;Learning+Supabase+step+by+step;Just+vibe+coding+my+way+through+tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=Typescript+Enthusiast;Tailwind+CSS+Lover;Exploring+AI+Models+like+Gemini%2C+Claude%2C+Grok;Learning+Supabase+step+by+step;Just+vibe+coding+my+way+through+tech" alt="Typing SVG" />
 </p>
 
 ---
@@ -47,9 +47,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohndng&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohndng&theme=tokyonight" />
-  <br/>
-
+ 
 </p>
 
 ---
